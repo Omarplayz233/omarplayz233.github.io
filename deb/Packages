@@ -1,0 +1,17 @@
+Package: space
+Source: space
+Version: 1.0.0
+Architecture: arm64
+Maintainer: Mustafa Abdelhadi <team@deta.space>
+Filename: ./binary-arm64/space-project.deb
+Size: 7967126
+MD5sum: cfea537330f19709b1c4f7907ce843c7
+SHA1: e60eb25b698dd7b4f145c4bfc2b86dfa1d46dc15
+SHA256: 01cfd6850c57785309e57f609dc9b97292ddbee8fa76fede10903f9326b25585
+Section: dev
+Priority: optional
+Homepage: https://deta.space
+Description: a space deta.space command
+Build-Depends: debhelper (= 11)
+Standards-Version: 1.0.0
+
