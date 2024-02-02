@@ -3,7 +3,7 @@ Source: space
 Version: 1.0.0
 Architecture: arm64
 Maintainer: Mustafa Abdelhadi <team@deta.space>
-Filename: ./deb/space-project.deb
+Filename: ./space-project_1.0.0_arm64.deb
 Size: 7967126
 MD5sum: cfea537330f19709b1c4f7907ce843c7
 SHA1: e60eb25b698dd7b4f145c4bfc2b86dfa1d46dc15
